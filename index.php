@@ -182,8 +182,8 @@ table.table td i {
                         <th>Email</th>
                         <th>Mobile Number</th>
                         <th>Address</th>
-                        <th>Action</th>
                         <th>CreationDate</th>
+                        <th>Action</th>
                     </tr>
                 </thead>
                 <tbody>
